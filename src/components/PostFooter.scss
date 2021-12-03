@@ -1,0 +1,14 @@
+.footerContainer {
+  background-color: #eee;
+  margin-left: -15px;
+  margin-bottom: -10px;
+  width: calc(100% + 30px);
+  display: flex;
+
+  .footerButton {
+    flex: 1;
+    text-align: center;
+    padding: 10px 15px;
+    cursor: pointer;
+  }
+}
