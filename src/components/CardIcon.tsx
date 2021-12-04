@@ -4,7 +4,7 @@ const imgStyle = {
   width: "35%",
   margin: "0 auto",
   position: "absolute",
-  top: "-90px",
+  top: "-75px",
   left: "32.5%",
   backgroundColor: "#fff",
   borderRadius: "10px",
